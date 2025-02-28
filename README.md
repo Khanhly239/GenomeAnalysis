@@ -40,3 +40,6 @@ Identifying somatic variants, especially in cancer data, by comparing tumor vs n
 - Mutect2 (GATK): Detect somatic variants from paired tumor-normal data.
 - FilterMutectCalls: Remove false positives to improve variant accuracy.
 - MSI & TMB Analysis: Analyze Microsatellite Instability (MSI) and Tumor Mutational Burden (TMB) to characterize tumor profiles.
+# TOOLS and Data samples
+Link: https://drive.google.com/drive/folders/1DQJ3x0bPmIOXtw440rLcE-fYX5JZZY7B?usp=sharing
+
